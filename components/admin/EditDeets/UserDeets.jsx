@@ -400,6 +400,7 @@ export default function UserDeets({ data }) {
                     <option value="silver plan">Silver Plan</option>
                     <option value="gold plan">Gold Plan</option>
                     <option value="premium plan">Premium Plan</option>
+                    <option value="no plan">None</option>
                   </select>
                 </div>
                 <div className="col-span-2 sm:col-span-1">
